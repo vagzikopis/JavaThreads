@@ -1,0 +1,894 @@
+Waiting servers to start
+[2025-11-05 23:05:55.788] [Producer-Listener-9881] Server started on port 9881 for producers
+[2025-11-05 23:05:55.788] [Consumer-Listener-8883] Server started on port 8883 for consumers
+[2025-11-05 23:05:55.787] [Producer-Listener-9883] Server started on port 9883 for producers
+[2025-11-05 23:05:55.791] [Producer-Listener-9882] Server started on port 9882 for producers
+[2025-11-05 23:05:55.788] [Consumer-Listener-8882] Server started on port 8882 for consumers
+[2025-11-05 23:05:55.788] [Consumer-Listener-8881] Server started on port 8881 for consumers
+[2025-11-05 23:06:00.723] [Producer-9]  Starting Producer
+[2025-11-05 23:06:00.723] [Producer-8]  Starting Producer
+[2025-11-05 23:06:00.723] [Producer-5]  Starting Producer
+[2025-11-05 23:06:00.723] [Producer-4]  Starting Producer
+[2025-11-05 23:06:00.723] [Producer-2]  Starting Producer
+[2025-11-05 23:06:00.723] [Producer-7]  Starting Producer
+[2025-11-05 23:06:00.723] [Producer-6]  Starting Producer
+[2025-11-05 23:06:00.723] [Producer-3]  Starting Producer
+[2025-11-05 23:06:00.723] [Producer-1]  Starting Producer
+[2025-11-05 23:06:00.723] [Producer-10]  Starting Producer
+[2025-11-05 23:06:00.724] [Consumer-2]  Starting Consumer
+[2025-11-05 23:06:00.724] [Consumer-1]  Starting Consumer
+[2025-11-05 23:06:00.724] [Consumer-3]  Starting Consumer
+[2025-11-05 23:06:00.724] [Consumer-5]  Starting Consumer
+[2025-11-05 23:06:00.724] [Consumer-7]  Starting Consumer
+[2025-11-05 23:06:00.724] [Consumer-6]  Starting Consumer
+[2025-11-05 23:06:00.724] [Consumer-8]  Starting Consumer
+[2025-11-05 23:06:00.725] [Consumer-10]  Starting Consumer
+[2025-11-05 23:06:00.724] [Consumer-9]  Starting Consumer
+[2025-11-05 23:06:00.724] [Consumer-4]  Starting Consumer
+[2025-11-05 23:06:00.731] [Producer-10]  Sent: 36
+[2025-11-05 23:06:00.731] [Producer-7]  Sent: 49
+[2025-11-05 23:06:00.731] [Consumer-8]  Sent: 9
+[2025-11-05 23:06:00.731] [Consumer-10]  Sent: 35
+[2025-11-05 23:06:00.731] [Producer-8]  Sent: 10
+[2025-11-05 23:06:00.731] [Consumer-6]  Sent: 39
+[2025-11-05 23:06:00.731] [Consumer-7]  Sent: 95
+[2025-11-05 23:06:00.731] [Producer-4]  Sent: 48
+[2025-11-05 23:06:00.731] [Producer-2]  Sent: 4
+[2025-11-05 23:06:00.731] [Producer-6]  Sent: 19
+[2025-11-05 23:06:00.731] [Consumer-3]  Sent: 6
+[2025-11-05 23:06:00.733] [Consumer-Handler-8882] Consumer-10 Lower limit violation!
+[2025-11-05 23:06:00.731] [Producer-5]  Sent: 71
+[2025-11-05 23:06:00.731] [Producer-1]  Sent: 92
+[2025-11-05 23:06:00.731] [Consumer-9]  Sent: 50
+[2025-11-05 23:06:00.731] [Producer-9]  Sent: 28
+[2025-11-05 23:06:00.731] [Consumer-1]  Sent: 37
+[2025-11-05 23:06:00.731] [Consumer-2]  Sent: 92
+[2025-11-05 23:06:00.731] [Consumer-4]  Sent: 0
+[2025-11-05 23:06:00.732] [Consumer-5]  Sent: 25
+[2025-11-05 23:06:00.732] [Producer-3]  Sent: 20
+[2025-11-05 23:06:00.733] [Consumer-Handler-8883] Consumer-8 Lower limit violation!
+[2025-11-05 23:06:00.734] [Consumer-Handler-8882] Consumer-6 Lower limit violation!
+[2025-11-05 23:06:00.736] [Producer-Handler-9881] Producer-8 increased storage to 10
+[2025-11-05 23:06:00.736] [Producer-Handler-9883] Producer-10 increased storage to 36
+[2025-11-05 23:06:00.736] [Consumer-Handler-8882] Consumer-7 Lower limit violation!
+[2025-11-05 23:06:00.736] [Producer-Handler-9881] Producer-4 increased storage to 58
+[2025-11-05 23:06:00.736] [Producer-Handler-9883] Producer-1 increased storage to 128
+[2025-11-05 23:06:00.737] [Producer-Handler-9882] Producer-7 increased storage to 49
+[2025-11-05 23:06:00.737] [Producer-Handler-9881] Producer-2 increased storage to 62
+[2025-11-05 23:06:00.737] [Producer-Handler-9883] Producer-9 increased storage to 156
+[2025-11-05 23:06:00.738] [Producer-10] Server 127.0.0.1:9883 Response: Server storage: 36
+[2025-11-05 23:06:00.738] [Producer-8] Server 127.0.0.1:9881 Response: Server storage: 10
+[2025-11-05 23:06:00.738] [Producer-4] Server 127.0.0.1:9881 Response: Server storage: 58
+[2025-11-05 23:06:00.738] [Producer-7] Server 127.0.0.1:9882 Response: Server storage: 49
+[2025-11-05 23:06:00.738] [Consumer-7] Server 127.0.0.1:8882 Response: Server storage: 0
+[2025-11-05 23:06:00.738] [Producer-1] Server 127.0.0.1:9883 Response: Server storage: 128
+[2025-11-05 23:06:00.738] [Consumer-10] Server 127.0.0.1:8882 Response: Server storage: 0
+[2025-11-05 23:06:00.738] [Producer-2] Server 127.0.0.1:9881 Response: Server storage: 62
+[2025-11-05 23:06:00.738] [Consumer-6] Server 127.0.0.1:8882 Response: Server storage: 0
+[2025-11-05 23:06:00.738] [Producer-Handler-9881] Producer-6 increased storage to 81
+[2025-11-05 23:06:00.738] [Consumer-8] Server 127.0.0.1:8883 Response: Server storage: 0
+[2025-11-05 23:06:00.738] [Consumer-Handler-8882] Consumer-3 decreased storage to 43
+[2025-11-05 23:06:00.738] [Consumer-Handler-8883] Consumer-2 decreased storage to 64
+[2025-11-05 23:06:00.738] [Producer-9] Server 127.0.0.1:9883 Response: Server storage: 156
+[2025-11-05 23:06:00.740] [Consumer-Handler-8881] Consumer-9 decreased storage to 31
+[2025-11-05 23:06:00.741] [Producer-6] Server 127.0.0.1:9881 Response: Server storage: 81
+[2025-11-05 23:06:00.741] [Consumer-Handler-8881] Consumer-1 Lower limit violation!
+[2025-11-05 23:06:00.741] [Producer-Handler-9882] Producer-5 increased storage to 114
+[2025-11-05 23:06:00.741] [Consumer-3] Server 127.0.0.1:8882 Response: Server storage: 43
+[2025-11-05 23:06:00.741] [Consumer-2] Server 127.0.0.1:8883 Response: Server storage: 64
+[2025-11-05 23:06:00.741] [Consumer-9] Server 127.0.0.1:8881 Response: Server storage: 31
+[2025-11-05 23:06:00.741] [Consumer-Handler-8881] Consumer-5 decreased storage to 6
+[2025-11-05 23:06:00.742] [Consumer-Handler-8882] Consumer-4 decreased storage to 114
+[2025-11-05 23:06:00.742] [Consumer-1] Server 127.0.0.1:8881 Response: Server storage: 31
+[2025-11-05 23:06:00.742] [Producer-5] Server 127.0.0.1:9882 Response: Server storage: 114
+[2025-11-05 23:06:00.743] [Producer-Handler-9881] Producer-3 increased storage to 26
+[2025-11-05 23:06:00.743] [Consumer-5] Server 127.0.0.1:8881 Response: Server storage: 6
+[2025-11-05 23:06:00.743] [Consumer-4] Server 127.0.0.1:8882 Response: Server storage: 114
+[2025-11-05 23:06:00.743] [Producer-3] Server 127.0.0.1:9881 Response: Server storage: 26
+[2025-11-05 23:06:02.935] [Consumer-6]  Sent: 9
+[2025-11-05 23:06:02.939] [Consumer-Handler-8883] Consumer-6 decreased storage to 55
+[2025-11-05 23:06:02.940] [Consumer-6] Server 127.0.0.1:8883 Response: Server storage: 55
+[2025-11-05 23:06:03.672] [Producer-4]  Sent: 89
+[2025-11-05 23:06:03.672] [Producer-Handler-9881] Producer-4 increased storage to 115
+[2025-11-05 23:06:03.673] [Producer-4] Server 127.0.0.1:9881 Response: Server storage: 115
+[2025-11-05 23:06:03.953] [Producer-5]  Sent: 63
+[2025-11-05 23:06:03.953] [Producer-Handler-9883] Producer-5 increased storage to 118
+[2025-11-05 23:06:03.954] [Producer-5] Server 127.0.0.1:9883 Response: Server storage: 118
+[2025-11-05 23:06:04.310] [Producer-6]  Sent: 44
+[2025-11-05 23:06:04.310] [Producer-Handler-9881] Producer-6 increased storage to 159
+[2025-11-05 23:06:04.311] [Producer-6] Server 127.0.0.1:9881 Response: Server storage: 159
+[2025-11-05 23:06:04.511] [Consumer-6]  Sent: 16
+[2025-11-05 23:06:04.512] [Consumer-Handler-8881] Consumer-6 decreased storage to 143
+[2025-11-05 23:06:04.512] [Consumer-6] Server 127.0.0.1:8881 Response: Server storage: 143
+[2025-11-05 23:06:04.550] [Producer-2]  Sent: 86
+[2025-11-05 23:06:04.550] [Producer-Handler-9881] Producer-2 increased storage to 229
+[2025-11-05 23:06:04.551] [Producer-2] Server 127.0.0.1:9881 Response: Server storage: 229
+[2025-11-05 23:06:04.872] [Producer-7]  Sent: 16
+[2025-11-05 23:06:04.872] [Producer-Handler-9881] Producer-7 increased storage to 245
+[2025-11-05 23:06:04.873] [Producer-7] Server 127.0.0.1:9881 Response: Server storage: 245
+[2025-11-05 23:06:05.413] [Consumer-1]  Sent: 24
+[2025-11-05 23:06:05.413] [Consumer-Handler-8883] Consumer-1 decreased storage to 94
+[2025-11-05 23:06:05.414] [Consumer-1] Server 127.0.0.1:8883 Response: Server storage: 94
+[2025-11-05 23:06:05.891] [Consumer-3]  Sent: 59
+[2025-11-05 23:06:05.891] [Consumer-Handler-8882] Consumer-3 decreased storage to 55
+[2025-11-05 23:06:05.892] [Consumer-3] Server 127.0.0.1:8882 Response: Server storage: 55
+[2025-11-05 23:06:06.000] [Producer-9]  Sent: 64
+[2025-11-05 23:06:06.000] [Producer-Handler-9881] Producer-9 increased storage to 309
+[2025-11-05 23:06:06.001] [Producer-9] Server 127.0.0.1:9881 Response: Server storage: 309
+[2025-11-05 23:06:06.439] [Consumer-7]  Sent: 51
+[2025-11-05 23:06:06.439] [Consumer-Handler-8882] Consumer-7 decreased storage to 4
+[2025-11-05 23:06:06.440] [Consumer-7] Server 127.0.0.1:8882 Response: Server storage: 4
+[2025-11-05 23:06:06.683] [Consumer-9]  Sent: 48
+[2025-11-05 23:06:06.684] [Consumer-Handler-8882] Consumer-9 Lower limit violation!
+[2025-11-05 23:06:06.684] [Consumer-9] Server 127.0.0.1:8882 Response: Server storage: 4
+[2025-11-05 23:06:07.108] [Producer-6]  Sent: 50
+[2025-11-05 23:06:07.109] [Producer-Handler-9882] Producer-6 increased storage to 54
+[2025-11-05 23:06:07.109] [Producer-6] Server 127.0.0.1:9882 Response: Server storage: 54
+[2025-11-05 23:06:07.161] [Consumer-8]  Sent: 50
+[2025-11-05 23:06:07.162] [Consumer-Handler-8883] Consumer-8 decreased storage to 44
+[2025-11-05 23:06:07.162] [Consumer-8] Server 127.0.0.1:8883 Response: Server storage: 44
+[2025-11-05 23:06:07.382] [Consumer-10]  Sent: 52
+[2025-11-05 23:06:07.382] [Consumer-Handler-8883] Consumer-10 Lower limit violation!
+[2025-11-05 23:06:07.383] [Consumer-10] Server 127.0.0.1:8883 Response: Server storage: 44
+[2025-11-05 23:06:07.882] [Consumer-2]  Sent: 91
+[2025-11-05 23:06:07.882] [Consumer-Handler-8881] Consumer-2 decreased storage to 218
+[2025-11-05 23:06:07.883] [Consumer-2] Server 127.0.0.1:8881 Response: Server storage: 218
+[2025-11-05 23:06:07.980] [Consumer-4]  Sent: 25
+[2025-11-05 23:06:07.980] [Consumer-Handler-8881] Consumer-4 decreased storage to 193
+[2025-11-05 23:06:07.981] [Consumer-4] Server 127.0.0.1:8881 Response: Server storage: 193
+[2025-11-05 23:06:08.118] [Producer-8]  Sent: 65
+[2025-11-05 23:06:08.119] [Producer-Handler-9881] Producer-8 increased storage to 258
+[2025-11-05 23:06:08.119] [Producer-8] Server 127.0.0.1:9881 Response: Server storage: 258
+[2025-11-05 23:06:08.459] [Producer-10]  Sent: 14
+[2025-11-05 23:06:08.459] [Producer-Handler-9881] Producer-10 increased storage to 272
+[2025-11-05 23:06:08.460] [Producer-10] Server 127.0.0.1:9881 Response: Server storage: 272
+[2025-11-05 23:06:08.465] [Consumer-1]  Sent: 67
+[2025-11-05 23:06:08.465] [Consumer-Handler-8883] Consumer-1 Lower limit violation!
+[2025-11-05 23:06:08.466] [Consumer-1] Server 127.0.0.1:8883 Response: Server storage: 44
+[2025-11-05 23:06:08.511] [Consumer-6]  Sent: 81
+[2025-11-05 23:06:08.511] [Consumer-Handler-8881] Consumer-6 decreased storage to 191
+[2025-11-05 23:06:08.511] [Consumer-6] Server 127.0.0.1:8881 Response: Server storage: 191
+[2025-11-05 23:06:08.567] [Consumer-10]  Sent: 7
+[2025-11-05 23:06:08.567] [Consumer-Handler-8883] Consumer-10 decreased storage to 37
+[2025-11-05 23:06:08.568] [Consumer-10] Server 127.0.0.1:8883 Response: Server storage: 37
+[2025-11-05 23:06:08.976] [Producer-6]  Sent: 2
+[2025-11-05 23:06:08.976] [Producer-Handler-9883] Producer-6 increased storage to 39
+[2025-11-05 23:06:08.977] [Producer-6] Server 127.0.0.1:9883 Response: Server storage: 39
+[2025-11-05 23:06:09.431] [Producer-3]  Sent: 34
+[2025-11-05 23:06:09.432] [Producer-Handler-9881] Producer-3 increased storage to 225
+[2025-11-05 23:06:09.432] [Producer-3] Server 127.0.0.1:9881 Response: Server storage: 225
+[2025-11-05 23:06:09.692] [Producer-4]  Sent: 18
+[2025-11-05 23:06:09.693] [Producer-Handler-9881] Producer-4 increased storage to 243
+[2025-11-05 23:06:09.693] [Producer-4] Server 127.0.0.1:9881 Response: Server storage: 243
+[2025-11-05 23:06:09.908] [Producer-1]  Sent: 0
+[2025-11-05 23:06:09.908] [Producer-Handler-9883] Producer-1 increased storage to 39
+[2025-11-05 23:06:09.909] [Producer-1] Server 127.0.0.1:9883 Response: Server storage: 39
+[2025-11-05 23:06:10.314] [Consumer-6]  Sent: 96
+[2025-11-05 23:06:10.314] [Consumer-Handler-8883] Consumer-6 Lower limit violation!
+[2025-11-05 23:06:10.315] [Consumer-6] Server 127.0.0.1:8883 Response: Server storage: 39
+[2025-11-05 23:06:10.482] [Consumer-7]  Sent: 7
+[2025-11-05 23:06:10.482] [Consumer-Handler-8882] Consumer-7 decreased storage to 47
+[2025-11-05 23:06:10.483] [Consumer-2]  Sent: 89
+[2025-11-05 23:06:10.483] [Consumer-7] Server 127.0.0.1:8882 Response: Server storage: 47
+[2025-11-05 23:06:10.483] [Consumer-Handler-8883] Consumer-2 Lower limit violation!
+[2025-11-05 23:06:10.483] [Consumer-2] Server 127.0.0.1:8883 Response: Server storage: 39
+[2025-11-05 23:06:10.516] [Consumer-5]  Sent: 11
+[2025-11-05 23:06:10.516] [Consumer-Handler-8883] Consumer-5 decreased storage to 28
+[2025-11-05 23:06:10.517] [Consumer-5] Server 127.0.0.1:8883 Response: Server storage: 28
+[2025-11-05 23:06:11.132] [Producer-6]  Sent: 83
+[2025-11-05 23:06:11.132] [Producer-Handler-9882] Producer-6 increased storage to 130
+[2025-11-05 23:06:11.133] [Producer-6] Server 127.0.0.1:9882 Response: Server storage: 130
+[2025-11-05 23:06:11.480] [Consumer-9]  Sent: 50
+[2025-11-05 23:06:11.481] [Consumer-Handler-8882] Consumer-9 decreased storage to 80
+[2025-11-05 23:06:11.481] [Consumer-9] Server 127.0.0.1:8882 Response: Server storage: 80
+[2025-11-05 23:06:11.690] [Producer-4]  Sent: 77
+[2025-11-05 23:06:11.690] [Producer-Handler-9883] Producer-4 increased storage to 105
+[2025-11-05 23:06:11.691] [Producer-4] Server 127.0.0.1:9883 Response: Server storage: 105
+[2025-11-05 23:06:12.165] [Producer-5]  Sent: 97
+[2025-11-05 23:06:12.165] [Producer-Handler-9882] Producer-5 increased storage to 177
+[2025-11-05 23:06:12.166] [Producer-5] Server 127.0.0.1:9882 Response: Server storage: 177
+[2025-11-05 23:06:12.337] [Consumer-7]  Sent: 89
+[2025-11-05 23:06:12.338] [Consumer-Handler-8881] Consumer-7 decreased storage to 154
+[2025-11-05 23:06:12.338] [Consumer-7] Server 127.0.0.1:8881 Response: Server storage: 154
+[2025-11-05 23:06:12.371] [Producer-9]  Sent: 4
+[2025-11-05 23:06:12.371] [Producer-Handler-9881] Producer-9 increased storage to 158
+[2025-11-05 23:06:12.372] [Producer-9] Server 127.0.0.1:9881 Response: Server storage: 158
+[2025-11-05 23:06:12.549] [Consumer-1]  Sent: 35
+[2025-11-05 23:06:12.549] [Consumer-Handler-8881] Consumer-1 decreased storage to 123
+[2025-11-05 23:06:12.549] [Consumer-1] Server 127.0.0.1:8881 Response: Server storage: 123
+[2025-11-05 23:06:12.976] [Producer-8]  Sent: 89
+[2025-11-05 23:06:12.976] [Producer-Handler-9882] Producer-8 increased storage to 266
+[2025-11-05 23:06:12.977] [Producer-8] Server 127.0.0.1:9882 Response: Server storage: 266
+[2025-11-05 23:06:13.240] [Producer-10]  Sent: 97
+[2025-11-05 23:06:13.241] [Producer-Handler-9883] Producer-10 increased storage to 202
+[2025-11-05 23:06:13.242] [Producer-10] Server 127.0.0.1:9883 Response: Server storage: 202
+[2025-11-05 23:06:13.376] [Consumer-9]  Sent: 71
+[2025-11-05 23:06:13.376] [Consumer-Handler-8883] Consumer-9 decreased storage to 131
+[2025-11-05 23:06:13.377] [Consumer-9] Server 127.0.0.1:8883 Response: Server storage: 131
+[2025-11-05 23:06:13.447] [Consumer-3]  Sent: 77
+[2025-11-05 23:06:13.447] [Consumer-Handler-8883] Consumer-3 decreased storage to 54
+[2025-11-05 23:06:13.448] [Consumer-3] Server 127.0.0.1:8883 Response: Server storage: 54
+[2025-11-05 23:06:13.987] [Consumer-5]  Sent: 52
+[2025-11-05 23:06:13.987] [Consumer-Handler-8881] Consumer-5 decreased storage to 71
+[2025-11-05 23:06:13.988] [Consumer-5] Server 127.0.0.1:8881 Response: Server storage: 71
+[2025-11-05 23:06:14.043] [Producer-2]  Sent: 48
+[2025-11-05 23:06:14.044] [Producer-Handler-9883] Producer-2 increased storage to 102
+[2025-11-05 23:06:14.044] [Producer-2] Server 127.0.0.1:9883 Response: Server storage: 102
+[2025-11-05 23:06:14.065] [Producer-7]  Sent: 70
+[2025-11-05 23:06:14.065] [Producer-Handler-9882] Producer-7 increased storage to 336
+[2025-11-05 23:06:14.066] [Producer-7] Server 127.0.0.1:9882 Response: Server storage: 336
+[2025-11-05 23:06:14.548] [Consumer-4]  Sent: 10
+[2025-11-05 23:06:14.548] [Consumer-Handler-8883] Consumer-4 decreased storage to 92
+[2025-11-05 23:06:14.548] [Consumer-4] Server 127.0.0.1:8883 Response: Server storage: 92
+[2025-11-05 23:06:14.708] [Producer-3]  Sent: 86
+[2025-11-05 23:06:14.708] [Producer-Handler-9881] Producer-3 increased storage to 157
+[2025-11-05 23:06:14.709] [Producer-3] Server 127.0.0.1:9881 Response: Server storage: 157
+[2025-11-05 23:06:15.031] [Consumer-8]  Sent: 94
+[2025-11-05 23:06:15.032] [Consumer-Handler-8883] Consumer-8 Lower limit violation!
+[2025-11-05 23:06:15.032] [Consumer-8] Server 127.0.0.1:8883 Response: Server storage: 92
+[2025-11-05 23:06:15.094] [Consumer-6]  Sent: 44
+[2025-11-05 23:06:15.094] [Consumer-Handler-8882] Consumer-6 decreased storage to 292
+[2025-11-05 23:06:15.094] [Consumer-6] Server 127.0.0.1:8882 Response: Server storage: 292
+[2025-11-05 23:06:15.474] [Producer-4]  Sent: 61
+[2025-11-05 23:06:15.474] [Producer-Handler-9883] Producer-4 increased storage to 153
+[2025-11-05 23:06:15.474] [Producer-4] Server 127.0.0.1:9883 Response: Server storage: 153
+[2025-11-05 23:06:15.817] [Producer-7]  Sent: 22
+[2025-11-05 23:06:15.817] [Producer-Handler-9881] Producer-7 increased storage to 179
+[2025-11-05 23:06:15.818] [Producer-7] Server 127.0.0.1:9881 Response: Server storage: 179
+[2025-11-05 23:06:16.643] [Consumer-2]  Sent: 27
+[2025-11-05 23:06:16.643] [Consumer-Handler-8882] Consumer-2 decreased storage to 265
+[2025-11-05 23:06:16.643] [Consumer-2] Server 127.0.0.1:8882 Response: Server storage: 265
+[2025-11-05 23:06:16.675] [Consumer-7]  Sent: 84
+[2025-11-05 23:06:16.675] [Consumer-Handler-8881] Consumer-7 decreased storage to 95
+[2025-11-05 23:06:16.676] [Consumer-7] Server 127.0.0.1:8881 Response: Server storage: 95
+[2025-11-05 23:06:16.716] [Consumer-1]  Sent: 80
+[2025-11-05 23:06:16.716] [Consumer-Handler-8883] Consumer-1 decreased storage to 73
+[2025-11-05 23:06:16.716] [Consumer-1] Server 127.0.0.1:8883 Response: Server storage: 73
+[2025-11-05 23:06:16.809] [Consumer-10]  Sent: 89
+[2025-11-05 23:06:16.809] [Consumer-Handler-8881] Consumer-10 decreased storage to 6
+[2025-11-05 23:06:16.810] [Consumer-10] Server 127.0.0.1:8881 Response: Server storage: 6
+[2025-11-05 23:06:17.572] [Producer-8]  Sent: 8
+[2025-11-05 23:06:17.572] [Producer-Handler-9882] Producer-8 increased storage to 273
+[2025-11-05 23:06:17.573] [Producer-8] Server 127.0.0.1:9882 Response: Server storage: 273
+[2025-11-05 23:06:19.244] [Producer-7]  Sent: 17
+[2025-11-05 23:06:19.245] [Producer-Handler-9881] Producer-7 increased storage to 23
+[2025-11-05 23:06:19.245] [Producer-7] Server 127.0.0.1:9881 Response: Server storage: 23
+[2025-11-05 23:06:19.343] [Consumer-5]  Sent: 80
+[2025-11-05 23:06:19.343] [Consumer-Handler-8882] Consumer-5 decreased storage to 193
+[2025-11-05 23:06:19.344] [Consumer-5] Server 127.0.0.1:8882 Response: Server storage: 193
+[2025-11-05 23:06:19.379] [Producer-1]  Sent: 13
+[2025-11-05 23:06:19.380] [Producer-Handler-9882] Producer-1 increased storage to 206
+[2025-11-05 23:06:19.381] [Producer-1] Server 127.0.0.1:9882 Response: Server storage: 206
+[2025-11-05 23:06:19.801] [Producer-2]  Sent: 5
+[2025-11-05 23:06:19.802] [Producer-Handler-9881] Producer-2 increased storage to 28
+[2025-11-05 23:06:19.802] [Producer-2] Server 127.0.0.1:9881 Response: Server storage: 28
+[2025-11-05 23:06:19.970] [Producer-5]  Sent: 21
+[2025-11-05 23:06:19.971] [Producer-Handler-9883] Producer-5 increased storage to 94
+[2025-11-05 23:06:19.972] [Producer-5] Server 127.0.0.1:9883 Response: Server storage: 94
+[2025-11-05 23:06:20.462] [Producer-6]  Sent: 2
+[2025-11-05 23:06:20.463] [Producer-Handler-9882] Producer-6 increased storage to 208
+[2025-11-05 23:06:20.463] [Producer-6] Server 127.0.0.1:9882 Response: Server storage: 208
+[2025-11-05 23:06:20.896] [Producer-10]  Sent: 36
+[2025-11-05 23:06:20.896] [Producer-Handler-9883] Producer-10 increased storage to 130
+[2025-11-05 23:06:20.896] [Producer-10] Server 127.0.0.1:9883 Response: Server storage: 130
+[2025-11-05 23:06:21.318] [Producer-9]  Sent: 75
+[2025-11-05 23:06:21.319] [Producer-Handler-9882] Producer-9 increased storage to 283
+[2025-11-05 23:06:21.319] [Producer-9] Server 127.0.0.1:9882 Response: Server storage: 283
+[2025-11-05 23:06:21.567] [Producer-6]  Sent: 26
+[2025-11-05 23:06:21.567] [Producer-Handler-9883] Producer-6 increased storage to 156
+[2025-11-05 23:06:21.568] [Producer-6] Server 127.0.0.1:9883 Response: Server storage: 156
+[2025-11-05 23:06:21.665] [Producer-3]  Sent: 61
+[2025-11-05 23:06:21.665] [Producer-Handler-9881] Producer-3 increased storage to 89
+[2025-11-05 23:06:21.666] [Producer-3] Server 127.0.0.1:9881 Response: Server storage: 89
+[2025-11-05 23:06:21.872] [Consumer-1]  Sent: 8
+[2025-11-05 23:06:21.872] [Consumer-Handler-8882] Consumer-1 decreased storage to 275
+[2025-11-05 23:06:21.873] [Consumer-1] Server 127.0.0.1:8882 Response: Server storage: 275
+[2025-11-05 23:06:22.010] [Producer-4]  Sent: 98
+[2025-11-05 23:06:22.010] [Producer-Handler-9882] Producer-4 increased storage to 373
+[2025-11-05 23:06:22.011] [Producer-4] Server 127.0.0.1:9882 Response: Server storage: 373
+[2025-11-05 23:06:22.294] [Consumer-9]  Sent: 38
+[2025-11-05 23:06:22.294] [Consumer-Handler-8882] Consumer-9 decreased storage to 335
+[2025-11-05 23:06:22.294] [Consumer-9] Server 127.0.0.1:8882 Response: Server storage: 335
+[2025-11-05 23:06:23.019] [Producer-8]  Sent: 74
+[2025-11-05 23:06:23.019] [Producer-Handler-9882] Producer-8 increased storage to 409
+[2025-11-05 23:06:23.020] [Producer-8] Server 127.0.0.1:9882 Response: Server storage: 409
+[2025-11-05 23:06:23.093] [Consumer-6]  Sent: 69
+[2025-11-05 23:06:23.093] [Consumer-Handler-8882] Consumer-6 decreased storage to 340
+[2025-11-05 23:06:23.093] [Consumer-6] Server 127.0.0.1:8882 Response: Server storage: 340
+[2025-11-05 23:06:23.160] [Consumer-4]  Sent: 41
+[2025-11-05 23:06:23.160] [Consumer-Handler-8882] Consumer-4 decreased storage to 299
+[2025-11-05 23:06:23.161] [Consumer-4] Server 127.0.0.1:8882 Response: Server storage: 299
+[2025-11-05 23:06:23.306] [Consumer-8]  Sent: 91
+[2025-11-05 23:06:23.306] [Consumer-Handler-8882] Consumer-8 decreased storage to 208
+[2025-11-05 23:06:23.307] [Consumer-8] Server 127.0.0.1:8882 Response: Server storage: 208
+[2025-11-05 23:06:23.311] [Consumer-3]  Sent: 59
+[2025-11-05 23:06:23.312] [Consumer-Handler-8881] Consumer-3 decreased storage to 30
+[2025-11-05 23:06:23.312] [Consumer-3] Server 127.0.0.1:8881 Response: Server storage: 30
+[2025-11-05 23:06:24.201] [Producer-2]  Sent: 67
+[2025-11-05 23:06:24.202] [Producer-Handler-9882] Producer-2 increased storage to 275
+[2025-11-05 23:06:24.202] [Producer-2] Server 127.0.0.1:9882 Response: Server storage: 275
+[2025-11-05 23:06:24.436] [Consumer-7]  Sent: 99
+[2025-11-05 23:06:24.436] [Consumer-Handler-8883] Consumer-7 decreased storage to 57
+[2025-11-05 23:06:24.437] [Consumer-7] Server 127.0.0.1:8883 Response: Server storage: 57
+[2025-11-05 23:06:24.563] [Producer-3]  Sent: 31
+[2025-11-05 23:06:24.564] [Producer-Handler-9882] Producer-3 increased storage to 306
+[2025-11-05 23:06:24.564] [Producer-3] Server 127.0.0.1:9882 Response: Server storage: 306
+[2025-11-05 23:06:24.828] [Consumer-6]  Sent: 66
+[2025-11-05 23:06:24.829] [Consumer-Handler-8881] Consumer-6 Lower limit violation!
+[2025-11-05 23:06:24.829] [Consumer-6] Server 127.0.0.1:8881 Response: Server storage: 30
+[2025-11-05 23:06:24.848] [Producer-9]  Sent: 89
+[2025-11-05 23:06:24.848] [Producer-Handler-9882] Producer-9 increased storage to 395
+[2025-11-05 23:06:24.849] [Producer-9] Server 127.0.0.1:9882 Response: Server storage: 395
+[2025-11-05 23:06:24.987] [Consumer-10]  Sent: 10
+[2025-11-05 23:06:24.987] [Consumer-Handler-8883] Consumer-10 decreased storage to 47
+[2025-11-05 23:06:24.987] [Consumer-10] Server 127.0.0.1:8883 Response: Server storage: 47
+[2025-11-05 23:06:25.217] [Producer-4]  Sent: 86
+[2025-11-05 23:06:25.217] [Producer-Handler-9882] Producer-4 increased storage to 481
+[2025-11-05 23:06:25.217] [Producer-4] Server 127.0.0.1:9882 Response: Server storage: 481
+[2025-11-05 23:06:25.289] [Producer-7]  Sent: 67
+[2025-11-05 23:06:25.289] [Producer-Handler-9882] Producer-7 increased storage to 548
+[2025-11-05 23:06:25.290] [Producer-7] Server 127.0.0.1:9882 Response: Server storage: 548
+[2025-11-05 23:06:25.507] [Consumer-2]  Sent: 36
+[2025-11-05 23:06:25.507] [Consumer-Handler-8881] Consumer-2 Lower limit violation!
+[2025-11-05 23:06:25.508] [Consumer-2] Server 127.0.0.1:8881 Response: Server storage: 30
+[2025-11-05 23:06:26.057] [Producer-5]  Sent: 61
+[2025-11-05 23:06:26.057] [Producer-Handler-9883] Producer-5 increased storage to 108
+[2025-11-05 23:06:26.058] [Producer-5] Server 127.0.0.1:9883 Response: Server storage: 108
+[2025-11-05 23:06:26.330] [Consumer-6]  Sent: 48
+[2025-11-05 23:06:26.331] [Consumer-Handler-8883] Consumer-6 decreased storage to 60
+[2025-11-05 23:06:26.331] [Consumer-6] Server 127.0.0.1:8883 Response: Server storage: 60
+[2025-11-05 23:06:26.857] [Producer-2]  Sent: 55
+[2025-11-05 23:06:26.858] [Producer-Handler-9883] Producer-2 increased storage to 115
+[2025-11-05 23:06:26.858] [Producer-2] Server 127.0.0.1:9883 Response: Server storage: 115
+[2025-11-05 23:06:27.164] [Producer-4]  Sent: 83
+[2025-11-05 23:06:27.165] [Producer-Handler-9882] Producer-4 increased storage to 631
+[2025-11-05 23:06:27.165] [Producer-4] Server 127.0.0.1:9882 Response: Server storage: 631
+[2025-11-05 23:06:27.906] [Consumer-8]  Sent: 44
+[2025-11-05 23:06:27.906] [Consumer-Handler-8882] Consumer-8 decreased storage to 587
+[2025-11-05 23:06:27.907] [Consumer-8] Server 127.0.0.1:8882 Response: Server storage: 587
+[2025-11-05 23:06:27.994] [Producer-5]  Sent: 49
+[2025-11-05 23:06:27.995] [Producer-Handler-9881] Producer-5 increased storage to 79
+[2025-11-05 23:06:27.995] [Producer-5] Server 127.0.0.1:9881 Response: Server storage: 79
+[2025-11-05 23:06:28.059] [Producer-1]  Sent: 74
+[2025-11-05 23:06:28.059] [Producer-Handler-9882] Producer-1 increased storage to 661
+[2025-11-05 23:06:28.060] [Producer-1] Server 127.0.0.1:9882 Response: Server storage: 661
+[2025-11-05 23:06:28.476] [Producer-7]  Sent: 94
+[2025-11-05 23:06:28.476] [Producer-Handler-9883] Producer-7 increased storage to 209
+[2025-11-05 23:06:28.477] [Producer-7] Server 127.0.0.1:9883 Response: Server storage: 209
+[2025-11-05 23:06:28.569] [Consumer-3]  Sent: 40
+[2025-11-05 23:06:28.569] [Consumer-Handler-8882] Consumer-3 decreased storage to 621
+[2025-11-05 23:06:28.570] [Consumer-3] Server 127.0.0.1:8882 Response: Server storage: 621
+[2025-11-05 23:06:28.680] [Producer-10]  Sent: 89
+[2025-11-05 23:06:28.680] [Producer-Handler-9882] Producer-10 increased storage to 710
+[2025-11-05 23:06:28.681] [Producer-10] Server 127.0.0.1:9882 Response: Server storage: 710
+[2025-11-05 23:06:28.702] [Consumer-5]  Sent: 27
+[2025-11-05 23:06:28.702] [Consumer-Handler-8883] Consumer-5 decreased storage to 182
+[2025-11-05 23:06:28.702] [Consumer-5] Server 127.0.0.1:8883 Response: Server storage: 182
+[2025-11-05 23:06:29.908] [Consumer-9]  Sent: 42
+[2025-11-05 23:06:29.908] [Consumer-Handler-8881] Consumer-9 decreased storage to 37
+[2025-11-05 23:06:29.909] [Consumer-9] Server 127.0.0.1:8881 Response: Server storage: 37
+[2025-11-05 23:06:30.008] [Producer-6]  Sent: 24
+[2025-11-05 23:06:30.009] [Producer-Handler-9882] Producer-6 increased storage to 734
+[2025-11-05 23:06:30.009] [Producer-6] Server 127.0.0.1:9882 Response: Server storage: 734
+[2025-11-05 23:06:30.216] [Consumer-1]  Sent: 51
+[2025-11-05 23:06:30.216] [Consumer-Handler-8882] Consumer-1 decreased storage to 683
+[2025-11-05 23:06:30.217] [Consumer-1] Server 127.0.0.1:8882 Response: Server storage: 683
+[2025-11-05 23:06:30.468] [Consumer-8]  Sent: 67
+[2025-11-05 23:06:30.468] [Consumer-Handler-8883] Consumer-8 decreased storage to 115
+[2025-11-05 23:06:30.469] [Consumer-8] Server 127.0.0.1:8883 Response: Server storage: 115
+[2025-11-05 23:06:30.517] [Consumer-5]  Sent: 43
+[2025-11-05 23:06:30.518] [Consumer-Handler-8883] Consumer-5 decreased storage to 72
+[2025-11-05 23:06:30.518] [Consumer-5] Server 127.0.0.1:8883 Response: Server storage: 72
+[2025-11-05 23:06:30.739] [Producer-1]  Sent: 76
+[2025-11-05 23:06:30.740] [Producer-Handler-9881] Producer-1 increased storage to 113
+[2025-11-05 23:06:30.740] [Producer-1] Server 127.0.0.1:9881 Response: Server storage: 113
+[2025-11-05 23:06:30.993] [Consumer-2]  Sent: 66
+[2025-11-05 23:06:30.993] [Consumer-Handler-8883] Consumer-2 decreased storage to 6
+[2025-11-05 23:06:30.994] [Consumer-2] Server 127.0.0.1:8883 Response: Server storage: 6
+[2025-11-05 23:06:31.042] [Consumer-7]  Sent: 62
+[2025-11-05 23:06:31.042] [Consumer-Handler-8883] Consumer-7 Lower limit violation!
+[2025-11-05 23:06:31.043] [Consumer-7] Server 127.0.0.1:8883 Response: Server storage: 6
+[2025-11-05 23:06:31.130] [Producer-6]  Sent: 21
+[2025-11-05 23:06:31.130] [Producer-Handler-9881] Producer-6 increased storage to 134
+[2025-11-05 23:06:31.131] [Producer-6] Server 127.0.0.1:9881 Response: Server storage: 134
+[2025-11-05 23:06:31.491] [Consumer-4]  Sent: 43
+[2025-11-05 23:06:31.491] [Consumer-Handler-8881] Consumer-4 decreased storage to 91
+[2025-11-05 23:06:31.492] [Consumer-4] Server 127.0.0.1:8881 Response: Server storage: 91
+[2025-11-05 23:06:31.533] [Consumer-10]  Sent: 63
+[2025-11-05 23:06:31.534] [Consumer-Handler-8881] Consumer-10 decreased storage to 28
+[2025-11-05 23:06:31.534] [Consumer-10] Server 127.0.0.1:8881 Response: Server storage: 28
+[2025-11-05 23:06:31.876] [Producer-8]  Sent: 81
+[2025-11-05 23:06:31.877] [Producer-Handler-9881] Producer-8 increased storage to 109
+[2025-11-05 23:06:31.877] [Producer-8] Server 127.0.0.1:9881 Response: Server storage: 109
+[2025-11-05 23:06:32.428] [Consumer-3]  Sent: 27
+[2025-11-05 23:06:32.428] [Consumer-Handler-8883] Consumer-3 Lower limit violation!
+[2025-11-05 23:06:32.429] [Consumer-3] Server 127.0.0.1:8883 Response: Server storage: 6
+[2025-11-05 23:06:32.485] [Producer-4]  Sent: 60
+[2025-11-05 23:06:32.486] [Producer-Handler-9883] Producer-4 increased storage to 66
+[2025-11-05 23:06:32.486] [Producer-4] Server 127.0.0.1:9883 Response: Server storage: 66
+[2025-11-05 23:06:32.666] [Producer-7]  Sent: 80
+[2025-11-05 23:06:32.666] [Producer-Handler-9882] Producer-7 increased storage to 763
+[2025-11-05 23:06:32.667] [Producer-7] Server 127.0.0.1:9882 Response: Server storage: 763
+[2025-11-05 23:06:33.028] [Consumer-8]  Sent: 43
+[2025-11-05 23:06:33.028] [Consumer-Handler-8882] Consumer-8 decreased storage to 720
+[2025-11-05 23:06:33.029] [Consumer-8] Server 127.0.0.1:8882 Response: Server storage: 720
+[2025-11-05 23:06:33.180] [Consumer-5]  Sent: 93
+[2025-11-05 23:06:33.180] [Consumer-Handler-8883] Consumer-5 Lower limit violation!
+[2025-11-05 23:06:33.180] [Consumer-5] Server 127.0.0.1:8883 Response: Server storage: 66
+[2025-11-05 23:06:33.482] [Producer-9]  Sent: 47
+[2025-11-05 23:06:33.482] [Producer-Handler-9883] Producer-9 increased storage to 113
+[2025-11-05 23:06:33.483] [Producer-9] Server 127.0.0.1:9883 Response: Server storage: 113
+[2025-11-05 23:06:33.524] [Consumer-9]  Sent: 76
+[2025-11-05 23:06:33.525] [Consumer-Handler-8881] Consumer-9 decreased storage to 33
+[2025-11-05 23:06:33.525] [Consumer-9] Server 127.0.0.1:8881 Response: Server storage: 33
+[2025-11-05 23:06:33.609] [Producer-3]  Sent: 46
+[2025-11-05 23:06:33.609] [Producer-Handler-9882] Producer-3 increased storage to 766
+[2025-11-05 23:06:33.610] [Producer-3] Server 127.0.0.1:9882 Response: Server storage: 766
+[2025-11-05 23:06:34.479] [Consumer-6]  Sent: 61
+[2025-11-05 23:06:34.479] [Consumer-Handler-8881] Consumer-6 Lower limit violation!
+[2025-11-05 23:06:34.480] [Consumer-6] Server 127.0.0.1:8881 Response: Server storage: 33
+[2025-11-05 23:06:34.766] [Producer-5]  Sent: 71
+[2025-11-05 23:06:34.766] [Producer-Handler-9883] Producer-5 increased storage to 184
+[2025-11-05 23:06:34.766] [Producer-5] Server 127.0.0.1:9883 Response: Server storage: 184
+[2025-11-05 23:06:35.309] [Producer-2]  Sent: 10
+[2025-11-05 23:06:35.309] [Producer-Handler-9881] Producer-2 increased storage to 43
+[2025-11-05 23:06:35.309] [Producer-2] Server 127.0.0.1:9881 Response: Server storage: 43
+[2025-11-05 23:06:36.139] [Consumer-10]  Sent: 10
+[2025-11-05 23:06:36.139] [Consumer-Handler-8882] Consumer-10 decreased storage to 756
+[2025-11-05 23:06:36.139] [Consumer-10] Server 127.0.0.1:8882 Response: Server storage: 756
+[2025-11-05 23:06:36.163] [Producer-10]  Sent: 78
+[2025-11-05 23:06:36.163] [Producer-Handler-9882] Producer-10 increased storage to 834
+[2025-11-05 23:06:36.163] [Producer-10] Server 127.0.0.1:9882 Response: Server storage: 834
+[2025-11-05 23:06:36.359] [Consumer-7]  Sent: 94
+[2025-11-05 23:06:36.361] [Consumer-Handler-8881] Consumer-7 Lower limit violation!
+[2025-11-05 23:06:36.361] [Consumer-7] Server 127.0.0.1:8881 Response: Server storage: 43
+[2025-11-05 23:06:38.636] [Producer-8]  Sent: 47
+[2025-11-05 23:06:38.636] [Producer-Handler-9882] Producer-8 increased storage to 881
+[2025-11-05 23:06:38.637] [Producer-8] Server 127.0.0.1:9882 Response: Server storage: 881
+[2025-11-05 23:06:38.738] [Producer-3]  Sent: 87
+[2025-11-05 23:06:38.738] [Producer-Handler-9883] Producer-3 increased storage to 271
+[2025-11-05 23:06:38.739] [Producer-3] Server 127.0.0.1:9883 Response: Server storage: 271
+[2025-11-05 23:06:38.836] [Producer-1]  Sent: 57
+[2025-11-05 23:06:38.836] [Producer-Handler-9881] Producer-1 increased storage to 100
+[2025-11-05 23:06:38.837] [Producer-1] Server 127.0.0.1:9881 Response: Server storage: 100
+[2025-11-05 23:06:39.303] [Producer-9]  Sent: 10
+[2025-11-05 23:06:39.304] [Producer-Handler-9883] Producer-9 increased storage to 281
+[2025-11-05 23:06:39.304] [Producer-9] Server 127.0.0.1:9883 Response: Server storage: 281
+[2025-11-05 23:06:39.411] [Consumer-5]  Sent: 27
+[2025-11-05 23:06:39.411] [Consumer-Handler-8881] Consumer-5 decreased storage to 73
+[2025-11-05 23:06:39.411] [Consumer-5] Server 127.0.0.1:8881 Response: Server storage: 73
+[2025-11-05 23:06:39.730] [Producer-4]  Sent: 99
+[2025-11-05 23:06:39.730] [Producer-Handler-9882] Producer-4 increased storage to 980
+[2025-11-05 23:06:39.731] [Producer-4] Server 127.0.0.1:9882 Response: Server storage: 980
+[2025-11-05 23:06:39.796] [Consumer-6]  Sent: 31
+[2025-11-05 23:06:39.796] [Consumer-Handler-8882] Consumer-6 decreased storage to 949
+[2025-11-05 23:06:39.796] [Consumer-6] Server 127.0.0.1:8882 Response: Server storage: 949
+[2025-11-05 23:06:39.802] [Consumer-1]  Sent: 24
+[2025-11-05 23:06:39.803] [Consumer-Handler-8881] Consumer-1 decreased storage to 49
+[2025-11-05 23:06:39.803] [Consumer-1] Server 127.0.0.1:8881 Response: Server storage: 49
+[2025-11-05 23:06:40.227] [Consumer-8]  Sent: 60
+[2025-11-05 23:06:40.227] [Consumer-Handler-8882] Consumer-8 decreased storage to 889
+[2025-11-05 23:06:40.227] [Consumer-8] Server 127.0.0.1:8882 Response: Server storage: 889
+[2025-11-05 23:06:40.280] [Consumer-9]  Sent: 41
+[2025-11-05 23:06:40.280] [Consumer-Handler-8882] Consumer-9 decreased storage to 848
+[2025-11-05 23:06:40.281] [Consumer-9] Server 127.0.0.1:8882 Response: Server storage: 848
+[2025-11-05 23:06:40.394] [Consumer-7]  Sent: 81
+[2025-11-05 23:06:40.394] [Consumer-Handler-8881] Consumer-7 Lower limit violation!
+[2025-11-05 23:06:40.395] [Consumer-7] Server 127.0.0.1:8881 Response: Server storage: 49
+[2025-11-05 23:06:40.541] [Producer-9]  Sent: 34
+[2025-11-05 23:06:40.541] [Producer-Handler-9881] Producer-9 increased storage to 83
+[2025-11-05 23:06:40.542] [Producer-9] Server 127.0.0.1:9881 Response: Server storage: 83
+[2025-11-05 23:06:40.605] [Consumer-2]  Sent: 42
+[2025-11-05 23:06:40.605] [Consumer-Handler-8882] Consumer-2 decreased storage to 806
+[2025-11-05 23:06:40.606] [Consumer-2] Server 127.0.0.1:8882 Response: Server storage: 806
+[2025-11-05 23:06:40.674] [Producer-6]  Sent: 8
+[2025-11-05 23:06:40.674] [Producer-Handler-9881] Producer-6 increased storage to 91
+[2025-11-05 23:06:40.675] [Producer-6] Server 127.0.0.1:9881 Response: Server storage: 91
+[2025-11-05 23:06:40.705] [Producer-10]  Sent: 56
+[2025-11-05 23:06:40.706] [Producer-Handler-9882] Producer-10 increased storage to 862
+[2025-11-05 23:06:40.706] [Producer-10] Server 127.0.0.1:9882 Response: Server storage: 862
+[2025-11-05 23:06:40.790] [Producer-7]  Sent: 44
+[2025-11-05 23:06:40.790] [Producer-Handler-9882] Producer-7 increased storage to 906
+[2025-11-05 23:06:40.791] [Producer-7] Server 127.0.0.1:9882 Response: Server storage: 906
+[2025-11-05 23:06:41.195] [Consumer-4]  Sent: 52
+[2025-11-05 23:06:41.195] [Consumer-Handler-8882] Consumer-4 decreased storage to 854
+[2025-11-05 23:06:41.196] [Consumer-4] Server 127.0.0.1:8882 Response: Server storage: 854
+[2025-11-05 23:06:41.501] [Consumer-3]  Sent: 4
+[2025-11-05 23:06:41.501] [Consumer-Handler-8881] Consumer-3 decreased storage to 87
+[2025-11-05 23:06:41.502] [Consumer-3] Server 127.0.0.1:8881 Response: Server storage: 87
+[2025-11-05 23:06:41.783] [Producer-2]  Sent: 78
+[2025-11-05 23:06:41.783] [Producer-Handler-9883] Producer-2 increased storage to 359
+[2025-11-05 23:06:41.784] [Producer-2] Server 127.0.0.1:9883 Response: Server storage: 359
+[2025-11-05 23:06:41.946] [Consumer-7]  Sent: 80
+[2025-11-05 23:06:41.947] [Consumer-Handler-8881] Consumer-7 decreased storage to 7
+[2025-11-05 23:06:41.947] [Consumer-7] Server 127.0.0.1:8881 Response: Server storage: 7
+[2025-11-05 23:06:43.276] [Consumer-9]  Sent: 88
+[2025-11-05 23:06:43.276] [Consumer-Handler-8882] Consumer-9 decreased storage to 766
+[2025-11-05 23:06:43.277] [Consumer-9] Server 127.0.0.1:8882 Response: Server storage: 766
+[2025-11-05 23:06:43.551] [Consumer-5]  Sent: 7
+[2025-11-05 23:06:43.551] [Consumer-Handler-8881] Consumer-5 Lower limit violation!
+[2025-11-05 23:06:43.552] [Consumer-5] Server 127.0.0.1:8881 Response: Server storage: 7
+[2025-11-05 23:06:44.159] [Producer-5]  Sent: 7
+[2025-11-05 23:06:44.159] [Producer-Handler-9882] Producer-5 increased storage to 773
+[2025-11-05 23:06:44.160] [Producer-5] Server 127.0.0.1:9882 Response: Server storage: 773
+[2025-11-05 23:06:44.263] [Producer-2]  Sent: 68
+[2025-11-05 23:06:44.264] [Producer-Handler-9882] Producer-2 increased storage to 841
+[2025-11-05 23:06:44.264] [Producer-2] Server 127.0.0.1:9882 Response: Server storage: 841
+[2025-11-05 23:06:44.572] [Consumer-7]  Sent: 73
+[2025-11-05 23:06:44.573] [Consumer-Handler-8881] Consumer-7 Lower limit violation!
+[2025-11-05 23:06:44.573] [Consumer-7] Server 127.0.0.1:8881 Response: Server storage: 7
+[2025-11-05 23:06:44.688] [Producer-4]  Sent: 96
+[2025-11-05 23:06:44.688] [Producer-Handler-9881] Producer-4 increased storage to 103
+[2025-11-05 23:06:44.689] [Producer-4] Server 127.0.0.1:9881 Response: Server storage: 103
+[2025-11-05 23:06:44.743] [Consumer-10]  Sent: 99
+[2025-11-05 23:06:44.743] [Consumer-Handler-8883] Consumer-10 decreased storage to 260
+[2025-11-05 23:06:44.744] [Consumer-10] Server 127.0.0.1:8883 Response: Server storage: 260
+[2025-11-05 23:06:45.337] [Producer-2]  Sent: 83
+[2025-11-05 23:06:45.337] [Producer-Handler-9883] Producer-2 increased storage to 343
+[2025-11-05 23:06:45.338] [Producer-2] Server 127.0.0.1:9883 Response: Server storage: 343
+[2025-11-05 23:06:45.589] [Consumer-6]  Sent: 7
+[2025-11-05 23:06:45.590] [Consumer-Handler-8881] Consumer-6 decreased storage to 96
+[2025-11-05 23:06:45.590] [Consumer-6] Server 127.0.0.1:8881 Response: Server storage: 96
+[2025-11-05 23:06:45.630] [Consumer-2]  Sent: 93
+[2025-11-05 23:06:45.630] [Consumer-Handler-8881] Consumer-2 decreased storage to 3
+[2025-11-05 23:06:45.630] [Consumer-2] Server 127.0.0.1:8881 Response: Server storage: 3
+[2025-11-05 23:06:45.645] [Producer-5]  Sent: 4
+[2025-11-05 23:06:45.645] [Producer-Handler-9883] Producer-5 increased storage to 347
+[2025-11-05 23:06:45.646] [Producer-5] Server 127.0.0.1:9883 Response: Server storage: 347
+[2025-11-05 23:06:45.768] [Producer-9]  Sent: 26
+[2025-11-05 23:06:45.768] [Producer-Handler-9882] Producer-9 increased storage to 867
+[2025-11-05 23:06:45.769] [Producer-9] Server 127.0.0.1:9882 Response: Server storage: 867
+[2025-11-05 23:06:45.965] [Consumer-8]  Sent: 40
+[2025-11-05 23:06:45.965] [Consumer-Handler-8883] Consumer-8 decreased storage to 307
+[2025-11-05 23:06:45.966] [Consumer-8] Server 127.0.0.1:8883 Response: Server storage: 307
+[2025-11-05 23:06:45.992] [Consumer-10]  Sent: 28
+[2025-11-05 23:06:45.992] [Consumer-Handler-8883] Consumer-10 decreased storage to 279
+[2025-11-05 23:06:45.992] [Consumer-10] Server 127.0.0.1:8883 Response: Server storage: 279
+[2025-11-05 23:06:46.134] [Producer-6]  Sent: 65
+[2025-11-05 23:06:46.134] [Producer-Handler-9883] Producer-6 increased storage to 344
+[2025-11-05 23:06:46.135] [Producer-6] Server 127.0.0.1:9883 Response: Server storage: 344
+[2025-11-05 23:06:46.358] [Consumer-3]  Sent: 74
+[2025-11-05 23:06:46.358] [Consumer-Handler-8881] Consumer-3 Lower limit violation!
+[2025-11-05 23:06:46.359] [Consumer-3] Server 127.0.0.1:8881 Response: Server storage: 3
+[2025-11-05 23:06:46.388] [Producer-1]  Sent: 85
+[2025-11-05 23:06:46.389] [Producer-Handler-9883] Producer-1 increased storage to 429
+[2025-11-05 23:06:46.389] [Producer-1] Server 127.0.0.1:9883 Response: Server storage: 429
+[2025-11-05 23:06:46.718] [Consumer-2]  Sent: 98
+[2025-11-05 23:06:46.718] [Consumer-Handler-8881] Consumer-2 Lower limit violation!
+[2025-11-05 23:06:46.719] [Consumer-2] Server 127.0.0.1:8881 Response: Server storage: 3
+[2025-11-05 23:06:47.263] [Producer-9]  Sent: 3
+[2025-11-05 23:06:47.263] [Producer-Handler-9883] Producer-9 increased storage to 432
+[2025-11-05 23:06:47.264] [Producer-9] Server 127.0.0.1:9883 Response: Server storage: 432
+[2025-11-05 23:06:47.457] [Producer-1]  Sent: 59
+[2025-11-05 23:06:47.457] [Producer-Handler-9882] Producer-1 increased storage to 926
+[2025-11-05 23:06:47.457] [Producer-1] Server 127.0.0.1:9882 Response: Server storage: 926
+[2025-11-05 23:06:47.606] [Producer-8]  Sent: 34
+[2025-11-05 23:06:47.606] [Producer-Handler-9881] Producer-8 increased storage to 37
+[2025-11-05 23:06:47.607] [Producer-8] Server 127.0.0.1:9881 Response: Server storage: 37
+[2025-11-05 23:06:47.924] [Producer-7]  Sent: 86
+[2025-11-05 23:06:47.924] [Producer-Handler-9881] Producer-7 increased storage to 123
+[2025-11-05 23:06:47.925] [Producer-7] Server 127.0.0.1:9881 Response: Server storage: 123
+[2025-11-05 23:06:48.078] [Producer-3]  Sent: 30
+[2025-11-05 23:06:48.078] [Producer-Handler-9883] Producer-3 increased storage to 462
+[2025-11-05 23:06:48.078] [Producer-3] Server 127.0.0.1:9883 Response: Server storage: 462
+[2025-11-05 23:06:48.826] [Consumer-1]  Sent: 58
+[2025-11-05 23:06:48.826] [Consumer-Handler-8881] Consumer-1 decreased storage to 65
+[2025-11-05 23:06:48.827] [Consumer-1] Server 127.0.0.1:8881 Response: Server storage: 65
+[2025-11-05 23:06:49.135] [Consumer-4]  Sent: 79
+[2025-11-05 23:06:49.135] [Consumer-Handler-8883] Consumer-4 decreased storage to 383
+[2025-11-05 23:06:49.135] [Consumer-4] Server 127.0.0.1:8883 Response: Server storage: 383
+[2025-11-05 23:06:49.576] [Producer-9]  Sent: 83
+[2025-11-05 23:06:49.577] [Producer-Handler-9883] Producer-9 increased storage to 466
+[2025-11-05 23:06:49.577] [Producer-9] Server 127.0.0.1:9883 Response: Server storage: 466
+[2025-11-05 23:06:49.936] [Producer-10]  Sent: 59
+[2025-11-05 23:06:49.936] [Producer-Handler-9881] Producer-10 increased storage to 124
+[2025-11-05 23:06:49.937] [Producer-10] Server 127.0.0.1:9881 Response: Server storage: 124
+[2025-11-05 23:06:49.973] [Consumer-2]  Sent: 85
+[2025-11-05 23:06:49.973] [Consumer-Handler-8883] Consumer-2 decreased storage to 381
+[2025-11-05 23:06:49.975] [Consumer-2] Server 127.0.0.1:8883 Response: Server storage: 381
+[2025-11-05 23:06:50.279] [Consumer-7]  Sent: 51
+[2025-11-05 23:06:50.279] [Consumer-Handler-8881] Consumer-7 decreased storage to 73
+[2025-11-05 23:06:50.280] [Consumer-7] Server 127.0.0.1:8881 Response: Server storage: 73
+[2025-11-05 23:06:50.306] [Consumer-5]  Sent: 95
+[2025-11-05 23:06:50.306] [Consumer-Handler-8882] Consumer-5 decreased storage to 831
+[2025-11-05 23:06:50.307] [Consumer-5] Server 127.0.0.1:8882 Response: Server storage: 831
+[2025-11-05 23:06:50.636] [Consumer-3]  Sent: 15
+[2025-11-05 23:06:50.636] [Consumer-Handler-8882] Consumer-3 decreased storage to 816
+[2025-11-05 23:06:50.637] [Consumer-3] Server 127.0.0.1:8882 Response: Server storage: 816
+[2025-11-05 23:06:50.744] [Producer-3]  Sent: 22
+[2025-11-05 23:06:50.744] [Producer-Handler-9881] Producer-3 increased storage to 95
+[2025-11-05 23:06:50.745] [Producer-3] Server 127.0.0.1:9881 Response: Server storage: 95
+[2025-11-05 23:06:51.671] [Consumer-10]  Sent: 27
+[2025-11-05 23:06:51.671] [Consumer-Handler-8883] Consumer-10 decreased storage to 354
+[2025-11-05 23:06:51.672] [Consumer-10] Server 127.0.0.1:8883 Response: Server storage: 354
+[2025-11-05 23:06:51.968] [Consumer-1]  Sent: 85
+[2025-11-05 23:06:51.968] [Consumer-Handler-8882] Consumer-1 decreased storage to 731
+[2025-11-05 23:06:51.969] [Consumer-1] Server 127.0.0.1:8882 Response: Server storage: 731
+[2025-11-05 23:06:52.005] [Consumer-8]  Sent: 66
+[2025-11-05 23:06:52.005] [Consumer-Handler-8883] Consumer-8 decreased storage to 288
+[2025-11-05 23:06:52.006] [Consumer-8] Server 127.0.0.1:8883 Response: Server storage: 288
+[2025-11-05 23:06:52.042] [Producer-10]  Sent: 76
+[2025-11-05 23:06:52.042] [Producer-Handler-9883] Producer-10 increased storage to 364
+[2025-11-05 23:06:52.042] [Producer-10] Server 127.0.0.1:9883 Response: Server storage: 364
+[2025-11-05 23:06:52.069] [Consumer-6]  Sent: 24
+[2025-11-05 23:06:52.069] [Consumer-Handler-8883] Consumer-6 decreased storage to 340
+[2025-11-05 23:06:52.070] [Consumer-6] Server 127.0.0.1:8883 Response: Server storage: 340
+[2025-11-05 23:06:52.163] [Producer-1]  Sent: 51
+[2025-11-05 23:06:52.163] [Producer-Handler-9881] Producer-1 increased storage to 146
+[2025-11-05 23:06:52.163] [Producer-1] Server 127.0.0.1:9881 Response: Server storage: 146
+[2025-11-05 23:06:52.289] [Producer-6]  Sent: 75
+[2025-11-05 23:06:52.290] [Producer-Handler-9882] Producer-6 increased storage to 806
+[2025-11-05 23:06:52.290] [Producer-6] Server 127.0.0.1:9882 Response: Server storage: 806
+[2025-11-05 23:06:52.451] [Producer-2]  Sent: 74
+[2025-11-05 23:06:52.451] [Producer-Handler-9882] Producer-2 increased storage to 880
+[2025-11-05 23:06:52.452] [Producer-2] Server 127.0.0.1:9882 Response: Server storage: 880
+[2025-11-05 23:06:52.649] [Consumer-4]  Sent: 79
+[2025-11-05 23:06:52.650] [Consumer-Handler-8881] Consumer-4 decreased storage to 67
+[2025-11-05 23:06:52.650] [Consumer-4] Server 127.0.0.1:8881 Response: Server storage: 67
+[2025-11-05 23:06:52.876] [Consumer-9]  Sent: 36
+[2025-11-05 23:06:52.876] [Consumer-Handler-8881] Consumer-9 decreased storage to 31
+[2025-11-05 23:06:52.877] [Consumer-9] Server 127.0.0.1:8881 Response: Server storage: 31
+[2025-11-05 23:06:53.554] [Producer-7]  Sent: 20
+[2025-11-05 23:06:53.555] [Producer-Handler-9881] Producer-7 increased storage to 51
+[2025-11-05 23:06:53.555] [Producer-7] Server 127.0.0.1:9881 Response: Server storage: 51
+[2025-11-05 23:06:53.820] [Producer-3]  Sent: 76
+[2025-11-05 23:06:53.820] [Producer-Handler-9882] Producer-3 increased storage to 956
+[2025-11-05 23:06:53.820] [Producer-3] Server 127.0.0.1:9882 Response: Server storage: 956
+[2025-11-05 23:06:54.338] [Producer-4]  Sent: 67
+[2025-11-05 23:06:54.339] [Producer-Handler-9882] Producer-4 Upper limit violation!
+[2025-11-05 23:06:54.339] [Producer-4] Server 127.0.0.1:9882 Response: Server storage: 956
+[2025-11-05 23:06:54.379] [Consumer-1]  Sent: 26
+[2025-11-05 23:06:54.380] [Consumer-Handler-8881] Consumer-1 decreased storage to 25
+[2025-11-05 23:06:54.380] [Consumer-1] Server 127.0.0.1:8881 Response: Server storage: 25
+[2025-11-05 23:06:54.554] [Producer-5]  Sent: 52
+[2025-11-05 23:06:54.555] [Producer-Handler-9882] Producer-5 Upper limit violation!
+[2025-11-05 23:06:54.555] [Producer-5] Server 127.0.0.1:9882 Response: Server storage: 956
+[2025-11-05 23:06:54.580] [Consumer-6]  Sent: 60
+[2025-11-05 23:06:54.580] [Consumer-Handler-8883] Consumer-6 decreased storage to 280
+[2025-11-05 23:06:54.581] [Consumer-6] Server 127.0.0.1:8883 Response: Server storage: 280
+[2025-11-05 23:06:54.680] [Consumer-10]  Sent: 20
+[2025-11-05 23:06:54.681] [Consumer-Handler-8882] Consumer-10 decreased storage to 936
+[2025-11-05 23:06:54.681] [Consumer-10] Server 127.0.0.1:8882 Response: Server storage: 936
+[2025-11-05 23:06:55.507] [Producer-8]  Sent: 27
+[2025-11-05 23:06:55.507] [Producer-Handler-9881] Producer-8 increased storage to 52
+[2025-11-05 23:06:55.508] [Producer-8] Server 127.0.0.1:9881 Response: Server storage: 52
+[2025-11-05 23:06:56.019] [Producer-3]  Sent: 73
+[2025-11-05 23:06:56.020] [Producer-Handler-9883] Producer-3 increased storage to 353
+[2025-11-05 23:06:56.020] [Producer-3] Server 127.0.0.1:9883 Response: Server storage: 353
+[2025-11-05 23:06:57.097] [Consumer-8]  Sent: 5
+[2025-11-05 23:06:57.098] [Consumer-Handler-8883] Consumer-8 decreased storage to 348
+[2025-11-05 23:06:57.098] [Consumer-8] Server 127.0.0.1:8883 Response: Server storage: 348
+[2025-11-05 23:06:57.582] [Consumer-10]  Sent: 72
+[2025-11-05 23:06:57.583] [Consumer-Handler-8881] Consumer-10 Lower limit violation!
+[2025-11-05 23:06:57.583] [Consumer-10] Server 127.0.0.1:8881 Response: Server storage: 52
+[2025-11-05 23:06:57.896] [Producer-8]  Sent: 22
+[2025-11-05 23:06:57.896] [Producer-Handler-9881] Producer-8 increased storage to 74
+[2025-11-05 23:06:57.897] [Producer-8] Server 127.0.0.1:9881 Response: Server storage: 74
+[2025-11-05 23:06:58.065] [Producer-9]  Sent: 87
+[2025-11-05 23:06:58.065] [Producer-Handler-9882] Producer-9 Upper limit violation!
+[2025-11-05 23:06:58.066] [Producer-9] Server 127.0.0.1:9882 Response: Server storage: 936
+[2025-11-05 23:06:58.097] [Consumer-2]  Sent: 68
+[2025-11-05 23:06:58.097] [Consumer-Handler-8881] Consumer-2 decreased storage to 6
+[2025-11-05 23:06:58.098] [Consumer-2] Server 127.0.0.1:8881 Response: Server storage: 6
+[2025-11-05 23:06:58.159] [Producer-3]  Sent: 69
+[2025-11-05 23:06:58.160] [Producer-Handler-9881] Producer-3 increased storage to 75
+[2025-11-05 23:06:58.160] [Producer-3] Server 127.0.0.1:9881 Response: Server storage: 75
+[2025-11-05 23:06:58.373] [Consumer-5]  Sent: 74
+[2025-11-05 23:06:58.374] [Consumer-Handler-8882] Consumer-5 decreased storage to 862
+[2025-11-05 23:06:58.374] [Consumer-5] Server 127.0.0.1:8882 Response: Server storage: 862
+[2025-11-05 23:06:58.516] [Producer-6]  Sent: 98
+[2025-11-05 23:06:58.516] [Producer-Handler-9881] Producer-6 increased storage to 173
+[2025-11-05 23:06:58.517] [Producer-6] Server 127.0.0.1:9881 Response: Server storage: 173
+[2025-11-05 23:06:58.688] [Producer-2]  Sent: 24
+[2025-11-05 23:06:58.688] [Producer-Handler-9883] Producer-2 increased storage to 372
+[2025-11-05 23:06:58.689] [Producer-2] Server 127.0.0.1:9883 Response: Server storage: 372
+[2025-11-05 23:06:59.425] [Consumer-7]  Sent: 95
+[2025-11-05 23:06:59.426] [Consumer-Handler-8883] Consumer-7 decreased storage to 277
+[2025-11-05 23:06:59.426] [Consumer-7] Server 127.0.0.1:8883 Response: Server storage: 277
+[2025-11-05 23:06:59.426] [Consumer-3]  Sent: 46
+[2025-11-05 23:06:59.427] [Consumer-Handler-8881] Consumer-3 decreased storage to 127
+[2025-11-05 23:06:59.427] [Consumer-3] Server 127.0.0.1:8881 Response: Server storage: 127
+[2025-11-05 23:07:00.210] [Producer-7]  Sent: 89
+[2025-11-05 23:07:00.211] [Producer-Handler-9883] Producer-7 increased storage to 366
+[2025-11-05 23:07:00.211] [Producer-7] Server 127.0.0.1:9883 Response: Server storage: 366
+[2025-11-05 23:07:00.367] [Producer-5]  Sent: 20
+[2025-11-05 23:07:00.367] [Producer-Handler-9881] Producer-5 increased storage to 147
+[2025-11-05 23:07:00.368] [Producer-5] Server 127.0.0.1:9881 Response: Server storage: 147
+[2025-11-05 23:07:00.709] [Producer-4]  Sent: 9
+[2025-11-05 23:07:00.710] [Producer-Handler-9882] Producer-4 increased storage to 871
+[2025-11-05 23:07:00.710] [Producer-4] Server 127.0.0.1:9882 Response: Server storage: 871
+[2025-11-05 23:07:01.202] [Producer-8]  Sent: 54
+[2025-11-05 23:07:01.202] [Producer-Handler-9882] Producer-8 increased storage to 925
+[2025-11-05 23:07:01.203] [Producer-8] Server 127.0.0.1:9882 Response: Server storage: 925
+[2025-11-05 23:07:01.273] [Consumer-9]  Sent: 31
+[2025-11-05 23:07:01.274] [Consumer-Handler-8882] Consumer-9 decreased storage to 894
+[2025-11-05 23:07:01.274] [Consumer-9] Server 127.0.0.1:8882 Response: Server storage: 894
+[2025-11-05 23:07:01.638] [Producer-10]  Sent: 80
+[2025-11-05 23:07:01.639] [Producer-Handler-9883] Producer-10 increased storage to 446
+[2025-11-05 23:07:01.639] [Producer-10] Server 127.0.0.1:9883 Response: Server storage: 446
+[2025-11-05 23:07:01.885] [Consumer-4]  Sent: 53
+[2025-11-05 23:07:01.886] [Consumer-Handler-8882] Consumer-4 decreased storage to 841
+[2025-11-05 23:07:01.886] [Consumer-4] Server 127.0.0.1:8882 Response: Server storage: 841
+[2025-11-05 23:07:02.023] [Consumer-8]  Sent: 43
+[2025-11-05 23:07:02.023] [Consumer-Handler-8882] Consumer-8 decreased storage to 798
+[2025-11-05 23:07:02.024] [Consumer-8] Server 127.0.0.1:8882 Response: Server storage: 798
+[2025-11-05 23:07:02.071] [Producer-1]  Sent: 91
+[2025-11-05 23:07:02.072] [Producer-Handler-9881] Producer-1 increased storage to 238
+[2025-11-05 23:07:02.072] [Producer-1] Server 127.0.0.1:9881 Response: Server storage: 238
+[2025-11-05 23:07:02.311] [Consumer-6]  Sent: 72
+[2025-11-05 23:07:02.311] [Consumer-Handler-8883] Consumer-6 decreased storage to 374
+[2025-11-05 23:07:02.313] [Consumer-6] Server 127.0.0.1:8883 Response: Server storage: 374
+[2025-11-05 23:07:02.629] [Producer-3]  Sent: 26
+[2025-11-05 23:07:02.629] [Producer-Handler-9881] Producer-3 increased storage to 264
+[2025-11-05 23:07:02.629] [Producer-3] Server 127.0.0.1:9881 Response: Server storage: 264
+[2025-11-05 23:07:03.474] [Consumer-1]  Sent: 86
+[2025-11-05 23:07:03.474] [Consumer-Handler-8881] Consumer-1 decreased storage to 178
+[2025-11-05 23:07:03.474] [Consumer-1] Server 127.0.0.1:8881 Response: Server storage: 178
+[2025-11-05 23:07:03.843] [Consumer-7]  Sent: 45
+[2025-11-05 23:07:03.844] [Consumer-Handler-8881] Consumer-7 decreased storage to 133
+[2025-11-05 23:07:03.844] [Consumer-7] Server 127.0.0.1:8881 Response: Server storage: 133
+[2025-11-05 23:07:03.927] [Producer-8]  Sent: 40
+[2025-11-05 23:07:03.927] [Producer-Handler-9881] Producer-8 increased storage to 173
+[2025-11-05 23:07:03.928] [Producer-8] Server 127.0.0.1:9881 Response: Server storage: 173
+[2025-11-05 23:07:04.126] [Producer-7]  Sent: 61
+[2025-11-05 23:07:04.127] [Producer-Handler-9881] Producer-7 increased storage to 234
+[2025-11-05 23:07:04.127] [Producer-7] Server 127.0.0.1:9881 Response: Server storage: 234
+[2025-11-05 23:07:04.565] [Consumer-4]  Sent: 5
+[2025-11-05 23:07:04.566] [Consumer-Handler-8882] Consumer-4 decreased storage to 793
+[2025-11-05 23:07:04.566] [Consumer-4] Server 127.0.0.1:8882 Response: Server storage: 793
+[2025-11-05 23:07:04.986] [Consumer-10]  Sent: 14
+[2025-11-05 23:07:04.986] [Consumer-Handler-8881] Consumer-10 decreased storage to 220
+[2025-11-05 23:07:04.986] [Consumer-10] Server 127.0.0.1:8881 Response: Server storage: 220
+[2025-11-05 23:07:05.012] [Producer-5]  Sent: 42
+[2025-11-05 23:07:05.013] [Producer-Handler-9881] Producer-5 increased storage to 262
+[2025-11-05 23:07:05.013] [Producer-5] Server 127.0.0.1:9881 Response: Server storage: 262
+[2025-11-05 23:07:05.252] [Producer-7]  Sent: 48
+[2025-11-05 23:07:05.252] [Producer-Handler-9883] Producer-7 increased storage to 422
+[2025-11-05 23:07:05.253] [Producer-7] Server 127.0.0.1:9883 Response: Server storage: 422
+[2025-11-05 23:07:05.523] [Producer-2]  Sent: 90
+[2025-11-05 23:07:05.523] [Producer-Handler-9883] Producer-2 increased storage to 512
+[2025-11-05 23:07:05.524] [Producer-2] Server 127.0.0.1:9883 Response: Server storage: 512
+[2025-11-05 23:07:05.637] [Consumer-5]  Sent: 75
+[2025-11-05 23:07:05.638] [Consumer-Handler-8882] Consumer-5 decreased storage to 718
+[2025-11-05 23:07:05.638] [Consumer-5] Server 127.0.0.1:8882 Response: Server storage: 718
+[2025-11-05 23:07:05.820] [Producer-9]  Sent: 56
+[2025-11-05 23:07:05.820] [Producer-Handler-9881] Producer-9 increased storage to 318
+[2025-11-05 23:07:05.820] [Producer-9] Server 127.0.0.1:9881 Response: Server storage: 318
+[2025-11-05 23:07:06.041] [Consumer-7]  Sent: 24
+[2025-11-05 23:07:06.041] [Consumer-Handler-8881] Consumer-7 decreased storage to 294
+[2025-11-05 23:07:06.043] [Consumer-7] Server 127.0.0.1:8881 Response: Server storage: 294
+[2025-11-05 23:07:06.538] [Consumer-10]  Sent: 83
+[2025-11-05 23:07:06.538] [Consumer-Handler-8883] Consumer-10 decreased storage to 429
+[2025-11-05 23:07:06.539] [Consumer-10] Server 127.0.0.1:8883 Response: Server storage: 429
+[2025-11-05 23:07:06.556] [Producer-5]  Sent: 64
+[2025-11-05 23:07:06.557] [Producer-Handler-9881] Producer-5 increased storage to 358
+[2025-11-05 23:07:06.557] [Producer-5] Server 127.0.0.1:9881 Response: Server storage: 358
+[2025-11-05 23:07:06.587] [Producer-1]  Sent: 36
+[2025-11-05 23:07:06.587] [Producer-Handler-9882] Producer-1 increased storage to 754
+[2025-11-05 23:07:06.587] [Producer-1] Server 127.0.0.1:9882 Response: Server storage: 754
+[2025-11-05 23:07:06.843] [Consumer-8]  Sent: 12
+[2025-11-05 23:07:06.843] [Consumer-Handler-8882] Consumer-8 decreased storage to 742
+[2025-11-05 23:07:06.843] [Consumer-8] Server 127.0.0.1:8882 Response: Server storage: 742
+[2025-11-05 23:07:07.120] [Consumer-9]  Sent: 15
+[2025-11-05 23:07:07.120] [Consumer-Handler-8883] Consumer-9 decreased storage to 414
+[2025-11-05 23:07:07.120] [Consumer-9] Server 127.0.0.1:8883 Response: Server storage: 414
+[2025-11-05 23:07:07.392] [Consumer-1]  Sent: 80
+[2025-11-05 23:07:07.392] [Consumer-Handler-8881] Consumer-1 decreased storage to 278
+[2025-11-05 23:07:07.393] [Consumer-1] Server 127.0.0.1:8881 Response: Server storage: 278
+[2025-11-05 23:07:07.734] [Consumer-4]  Sent: 44
+[2025-11-05 23:07:07.734] [Consumer-Handler-8883] Consumer-4 decreased storage to 370
+[2025-11-05 23:07:07.735] [Consumer-4] Server 127.0.0.1:8883 Response: Server storage: 370
+[2025-11-05 23:07:07.951] [Consumer-2]  Sent: 43
+[2025-11-05 23:07:07.952] [Consumer-Handler-8883] Consumer-2 decreased storage to 327
+[2025-11-05 23:07:07.952] [Consumer-2] Server 127.0.0.1:8883 Response: Server storage: 327
+[2025-11-05 23:07:08.001] [Producer-7]  Sent: 0
+[2025-11-05 23:07:08.001] [Producer-Handler-9882] Producer-7 increased storage to 742
+[2025-11-05 23:07:08.002] [Producer-7] Server 127.0.0.1:9882 Response: Server storage: 742
+[2025-11-05 23:07:08.416] [Producer-4]  Sent: 39
+[2025-11-05 23:07:08.416] [Producer-Handler-9882] Producer-4 increased storage to 781
+[2025-11-05 23:07:08.417] [Producer-4] Server 127.0.0.1:9882 Response: Server storage: 781
+[2025-11-05 23:07:08.499] [Producer-6]  Sent: 99
+[2025-11-05 23:07:08.500] [Producer-Handler-9882] Producer-6 increased storage to 880
+[2025-11-05 23:07:08.500] [Producer-6] Server 127.0.0.1:9882 Response: Server storage: 880
+[2025-11-05 23:07:08.718] [Consumer-6]  Sent: 37
+[2025-11-05 23:07:08.718] [Consumer-Handler-8882] Consumer-6 decreased storage to 843
+[2025-11-05 23:07:08.719] [Consumer-6] Server 127.0.0.1:8882 Response: Server storage: 843
+[2025-11-05 23:07:09.074] [Consumer-3]  Sent: 62
+[2025-11-05 23:07:09.075] [Consumer-Handler-8883] Consumer-3 decreased storage to 265
+[2025-11-05 23:07:09.075] [Consumer-3] Server 127.0.0.1:8883 Response: Server storage: 265
+[2025-11-05 23:07:10.055] [Consumer-5]  Sent: 38
+[2025-11-05 23:07:10.056] [Consumer-Handler-8882] Consumer-5 decreased storage to 805
+[2025-11-05 23:07:10.056] [Consumer-5] Server 127.0.0.1:8882 Response: Server storage: 805
+[2025-11-05 23:07:10.392] [Producer-8]  Sent: 55
+[2025-11-05 23:07:10.393] [Producer-Handler-9883] Producer-8 increased storage to 320
+[2025-11-05 23:07:10.393] [Producer-8] Server 127.0.0.1:9883 Response: Server storage: 320
+[2025-11-05 23:07:10.439] [Producer-10]  Sent: 7
+[2025-11-05 23:07:10.439] [Producer-Handler-9881] Producer-10 increased storage to 285
+[2025-11-05 23:07:10.439] [Producer-10] Server 127.0.0.1:9881 Response: Server storage: 285
+[2025-11-05 23:07:10.970] [Producer-4]  Sent: 84
+[2025-11-05 23:07:10.970] [Producer-Handler-9881] Producer-4 increased storage to 369
+[2025-11-05 23:07:10.971] [Producer-4] Server 127.0.0.1:9881 Response: Server storage: 369
+[2025-11-05 23:07:11.092] [Producer-3]  Sent: 38
+[2025-11-05 23:07:11.092] [Producer-Handler-9883] Producer-3 increased storage to 358
+[2025-11-05 23:07:11.093] [Producer-3] Server 127.0.0.1:9883 Response: Server storage: 358
+[2025-11-05 23:07:11.805] [Producer-2]  Sent: 38
+[2025-11-05 23:07:11.805] [Producer-Handler-9882] Producer-2 increased storage to 843
+[2025-11-05 23:07:11.805] [Producer-2] Server 127.0.0.1:9882 Response: Server storage: 843
+[2025-11-05 23:07:11.876] [Consumer-10]  Sent: 70
+[2025-11-05 23:07:11.876] [Consumer-Handler-8882] Consumer-10 decreased storage to 773
+[2025-11-05 23:07:11.876] [Consumer-10] Server 127.0.0.1:8882 Response: Server storage: 773
+[2025-11-05 23:07:12.381] [Consumer-2]  Sent: 89
+[2025-11-05 23:07:12.381] [Consumer-Handler-8882] Consumer-2 decreased storage to 684
+[2025-11-05 23:07:12.381] [Consumer-2] Server 127.0.0.1:8882 Response: Server storage: 684
+[2025-11-05 23:07:12.845] [Producer-6]  Sent: 59
+[2025-11-05 23:07:12.846] [Producer-Handler-9881] Producer-6 increased storage to 428
+[2025-11-05 23:07:12.846] [Producer-6] Server 127.0.0.1:9881 Response: Server storage: 428
+[2025-11-05 23:07:12.968] [Producer-8]  Sent: 21
+[2025-11-05 23:07:12.968] [Producer-Handler-9882] Producer-8 increased storage to 705
+[2025-11-05 23:07:12.969] [Producer-8] Server 127.0.0.1:9882 Response: Server storage: 705
+[2025-11-05 23:07:13.602] [Consumer-6]  Sent: 75
+[2025-11-05 23:07:13.603] [Consumer-Handler-8881] Consumer-6 decreased storage to 353
+[2025-11-05 23:07:13.603] [Consumer-6] Server 127.0.0.1:8881 Response: Server storage: 353
+[2025-11-05 23:07:13.687] [Producer-7]  Sent: 73
+[2025-11-05 23:07:13.688] [Producer-Handler-9882] Producer-7 increased storage to 778
+[2025-11-05 23:07:13.689] [Producer-7] Server 127.0.0.1:9882 Response: Server storage: 778
+[2025-11-05 23:07:13.849] [Producer-3]  Sent: 36
+[2025-11-05 23:07:13.850] [Producer-Handler-9883] Producer-3 increased storage to 394
+[2025-11-05 23:07:13.850] [Producer-3] Server 127.0.0.1:9883 Response: Server storage: 394
+[2025-11-05 23:07:14.009] [Consumer-8]  Sent: 88
+[2025-11-05 23:07:14.009] [Consumer-Handler-8881] Consumer-8 decreased storage to 265
+[2025-11-05 23:07:14.009] [Consumer-8] Server 127.0.0.1:8881 Response: Server storage: 265
+[2025-11-05 23:07:14.296] [Producer-1]  Sent: 50
+[2025-11-05 23:07:14.296] [Producer-Handler-9881] Producer-1 increased storage to 315
+[2025-11-05 23:07:14.296] [Producer-1] Server 127.0.0.1:9881 Response: Server storage: 315
+[2025-11-05 23:07:14.606] [Consumer-5]  Sent: 63
+[2025-11-05 23:07:14.606] [Consumer-Handler-8882] Consumer-5 decreased storage to 715
+[2025-11-05 23:07:14.606] [Consumer-5] Server 127.0.0.1:8882 Response: Server storage: 715
+[2025-11-05 23:07:14.803] [Consumer-4]  Sent: 69
+[2025-11-05 23:07:14.804] [Consumer-Handler-8881] Consumer-4 decreased storage to 246
+[2025-11-05 23:07:14.804] [Consumer-4] Server 127.0.0.1:8881 Response: Server storage: 246
+[2025-11-05 23:07:14.931] [Producer-2]  Sent: 72
+[2025-11-05 23:07:14.932] [Producer-Handler-9883] Producer-2 increased storage to 466
+[2025-11-05 23:07:14.932] [Producer-2] Server 127.0.0.1:9883 Response: Server storage: 466
+[2025-11-05 23:07:15.006] [Producer-9]  Sent: 58
+[2025-11-05 23:07:15.007] [Producer-Handler-9883] Producer-9 increased storage to 524
+[2025-11-05 23:07:15.007] [Producer-9] Server 127.0.0.1:9883 Response: Server storage: 524
+[2025-11-05 23:07:15.022] [Consumer-7]  Sent: 66
+[2025-11-05 23:07:15.022] [Consumer-Handler-8883] Consumer-7 decreased storage to 458
+[2025-11-05 23:07:15.023] [Consumer-7] Server 127.0.0.1:8883 Response: Server storage: 458
+[2025-11-05 23:07:15.318] [Consumer-9]  Sent: 34
+[2025-11-05 23:07:15.318] [Consumer-Handler-8883] Consumer-9 decreased storage to 424
+[2025-11-05 23:07:15.319] [Consumer-9] Server 127.0.0.1:8883 Response: Server storage: 424
+[2025-11-05 23:07:15.697] [Producer-5]  Sent: 3
+[2025-11-05 23:07:15.698] [Producer-Handler-9881] Producer-5 increased storage to 249
+[2025-11-05 23:07:15.698] [Producer-5] Server 127.0.0.1:9881 Response: Server storage: 249
+[2025-11-05 23:07:15.729] [Producer-10]  Sent: 86
+[2025-11-05 23:07:15.729] [Producer-Handler-9881] Producer-10 increased storage to 335
+[2025-11-05 23:07:15.730] [Producer-10] Server 127.0.0.1:9881 Response: Server storage: 335
+[2025-11-05 23:07:15.838] [Consumer-1]  Sent: 1
+[2025-11-05 23:07:15.839] [Consumer-Handler-8882] Consumer-1 decreased storage to 714
+[2025-11-05 23:07:15.839] [Consumer-1] Server 127.0.0.1:8882 Response: Server storage: 714
+[2025-11-05 23:07:15.991] [Producer-4]  Sent: 36
+[2025-11-05 23:07:15.991] [Producer-Handler-9883] Producer-4 increased storage to 460
+[2025-11-05 23:07:15.991] [Producer-4] Server 127.0.0.1:9883 Response: Server storage: 460
+[2025-11-05 23:07:16.004] [Consumer-8]  Sent: 53
+[2025-11-05 23:07:16.004] [Consumer-Handler-8882] Consumer-8 decreased storage to 661
+[2025-11-05 23:07:16.005] [Consumer-8] Server 127.0.0.1:8882 Response: Server storage: 661
+[2025-11-05 23:07:16.202] [Producer-3]  Sent: 46
+[2025-11-05 23:07:16.203] [Producer-Handler-9882] Producer-3 increased storage to 707
+[2025-11-05 23:07:16.203] [Producer-3] Server 127.0.0.1:9882 Response: Server storage: 707
+[2025-11-05 23:07:16.318] [Consumer-7]  Sent: 34
+[2025-11-05 23:07:16.319] [Consumer-Handler-8883] Consumer-7 decreased storage to 426
+[2025-11-05 23:07:16.319] [Consumer-7] Server 127.0.0.1:8883 Response: Server storage: 426
+[2025-11-05 23:07:16.673] [Producer-8]  Sent: 88
+[2025-11-05 23:07:16.674] [Producer-Handler-9881] Producer-8 increased storage to 423
+[2025-11-05 23:07:16.674] [Producer-8] Server 127.0.0.1:9881 Response: Server storage: 423
+[2025-11-05 23:07:17.044] [Producer-9]  Sent: 76
+[2025-11-05 23:07:17.044] [Producer-Handler-9883] Producer-9 increased storage to 502
+[2025-11-05 23:07:17.045] [Producer-9] Server 127.0.0.1:9883 Response: Server storage: 502
+[2025-11-05 23:07:17.206] [Consumer-3]  Sent: 26
+[2025-11-05 23:07:17.207] [Consumer-Handler-8883] Consumer-3 decreased storage to 476
+[2025-11-05 23:07:17.208] [Consumer-3] Server 127.0.0.1:8883 Response: Server storage: 476
+[2025-11-05 23:07:17.522] [Producer-6]  Sent: 43
+[2025-11-05 23:07:17.523] [Producer-Handler-9883] Producer-6 increased storage to 519
+[2025-11-05 23:07:17.523] [Producer-6] Server 127.0.0.1:9883 Response: Server storage: 519
